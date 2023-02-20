@@ -10,7 +10,7 @@ public class TestController {
 
 	@GetMapping("/hello")
 	public String getHelloWorld() {
-		return "Git Ignore Project";
+		return "Git Ignore Project updated";
 	}
 	
 }
